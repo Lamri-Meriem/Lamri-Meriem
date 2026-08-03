@@ -1,7 +1,7 @@
 # Hi, I'm Meriem 👋
 
 🎓 Computer Science student at **École Nationale Supérieure d'Informatique (ESI)**, Algiers  
-🎨 Freelance UI/UX designer & web developer
+🎨 Freelance UI/UX designer & web developer <br>
 🤖 Currently deepening my skills in **Machine Learning, NLP, and Computer Vision**, with a focus on Arabic NLP and human-centered AI product design  
 
 ---
