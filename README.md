@@ -8,10 +8,15 @@
 
 
 ### 🧰 Languages & Tools
-![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,vuejs,laravel,java,figma,git)
+![Design](https://skillicons.dev/icons?i=figma,ai,ps,xd)
+
+![Web Dev](https://skillicons.dev/icons?i=html,css,js,react,vuejs,laravel,bootstrap,tailwind,c,java,postgres,git)
+
+![AI/ML](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ### 📊 GitHub Stats
-![Meriem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lamri-Meriem&show_icons=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Lamri-Meriem&theme=radical)
 
 ### 🌐 Find me elsewhere
