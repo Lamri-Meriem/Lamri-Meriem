@@ -11,8 +11,8 @@
 ![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,vuejs,laravel,java,figma,git)
 
 ### 📊 GitHub Stats
-![Meriem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lamri-Meriem&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lamri-Meriem&theme=radical)
+![Meriem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lamri-Meriem&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Lamri-Meriem&theme=radical)
 
 ### 🌐 Find me elsewhere
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat&logo=behance&logoColor=white)](https://behance.net/meriemlamri01)
